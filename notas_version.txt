@@ -1,0 +1,20 @@
+Notas de las actualizaciones:
+
+03-10-2025 Añadido BRANDMEISTER y DMR+ al Editor Especcial
+
+01-10-2025 Nuevo Editor Especcial con Memorias
+
+30-09-25 Nuevos reflectores YSF
+
+02-09-25 Cambios en el editor YSF2DMR.
+
+31-08-25 Añadido botones mostrar ocultar Password en todos los editortes.
+
+30-08-25 Cambios en el Editor svxlink.
+
+29-08-25 La sala ES-ANDALUCIA tenía la ip antigua
+se ha puesto la buena.
+
+28-08-25 Cambios en Actualizar REFLECTORES YSF.
+
+27-08-25 Fecha de la imagen actualizada.
