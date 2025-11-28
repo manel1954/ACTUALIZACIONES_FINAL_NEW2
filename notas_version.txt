@@ -1,5 +1,7 @@
 Notas de las actualizaciones:
 
+28-11-2025 Cambio repositorio list Reflectores YSF
+
 03-10-2025 Añadido BRANDMEISTER y DMR+ al Editor Especcial
 
 01-10-2025 Nuevo Editor Especcial con Memorias
