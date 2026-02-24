@@ -1,4 +1,5 @@
 Notas de las actualizaciones:
+24-02-2026 Cambios en el Panel de control
 01-12-2025 Cambio iconos en el Panel Inferior
 30-11-2025 Cambio repositorio lista de Reflectores YSF
 03-10-2025 Añadido BRANDMEISTER y DMR+ al Editor Especcial
